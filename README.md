@@ -72,7 +72,7 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 // Parámetros editables
 
 // REFERENCIA
-"wget -O - https://raw.githubusercontent.com/colombiahack/UnixBot-MD/maestro/gata.sh | bash"
+"wget -O - https://raw.githubusercontent.com/colombiahack/UnixBot-MD/master/gata.sh | bash"
 
 // PARÁMETROS QUE PUEDE SER MODIFICADOS --> "[...]"
 "wget -O - https://raw.githubusercontent.com/[usuario]/[repositorio]/[rama]/gata.sh | bash"
@@ -84,7 +84,7 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 //Ejemplo: git clone https://github.com/GataNina-Li/GataBot-MD.git
 
 209 --> "cd [repositorio]"
-//Ejemplo: cd GataBot-MD
+//Ejemplo: cd UnixxBot-MD
 
 //Una vez hecho estos cambios ejecute los nuevos comandos en Termux
 ```
