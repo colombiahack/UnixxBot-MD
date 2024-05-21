@@ -65,7 +65,7 @@
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/colombiahack/UnixBot-MD/maestro/gata.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/colombiahack/UnixBot-MD/master/gata.sh | bash
 ```
 ```js
 // PERSONALIZAR INSTALACIÓN AUTOMÁTICA (En caso de una Bifurcación)
