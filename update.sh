@@ -2,7 +2,7 @@
   
 #!/data/data/com.termux/files/usr/bin/bash 
 BOT_DIR="UnixxBot-MD"  
-BOT_REPO="https://github.com/colombiahack/$BOT_DIR"
+BOT_REPO="https://github.com/colombiahack/UnixxBot-MD/tree/master/$BOT_DIR"
 DB_FILE="database.json"
  
 GREEN='\033[32m'
