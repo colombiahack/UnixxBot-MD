@@ -164,7 +164,7 @@ pm2 start index
 cd
 ```
 ```bash
-cd GataBot-MD
+cd UnixxBot-MD
 ```
 ```bash
 npm start
@@ -174,10 +174,10 @@ npm start
 > **Warning** deten el bot, haz click en el símbolo (ctrl) [default=z] usar la letra "z" + "ENTER" hasta que salga algo verdes similar a : GataBot-MD $
 > escribe los siguientes comando uno x uno :
 ```bash 
-cd GataBot-MD
+cd UnixxBot-MD
 ```
 ```bash
-rm -rf GataBotSession
+rm -rf UnixxBotSession
 ```
 ```bash
 npm start
@@ -186,7 +186,7 @@ npm start
 ### 😼 ACTUALIZAR GATABOT
 > **Note** Comandos para actualizar GataBot-MD de forma automática
 ```bash
-grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/colombiahack/UnixBot-MD/master/update.sh | bash
+grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/colombiahack/UnixxBot-MD/master/update.sh | bash
 
 #### Para que no pierda su progreso en GataBot, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
 > **Warning** Estos comandos solo funcionan para TERMUX, REPLIT, LINUX                           
